@@ -1,0 +1,529 @@
+fileFormatVersion: 2
+guid: 432ac13608fc04146810f474604425dc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4993721326966228843
+    second: ak404_00-sheet_0
+  - first:
+      213: 7115084544047201490
+    second: ak404_00-sheet_1
+  - first:
+      213: 2909143204397900820
+    second: ak404_00-sheet_2
+  - first:
+      213: -6631782380581211585
+    second: ak404_00-sheet_3
+  - first:
+      213: 215166630233269800
+    second: ak404_00-sheet_4
+  - first:
+      213: -8576109846665111520
+    second: ak404_00-sheet_5
+  - first:
+      213: -1231738652278621586
+    second: ak404_00-sheet_6
+  - first:
+      213: 1153482035999078590
+    second: ak404_00-sheet_7
+  - first:
+      213: -1476154295788440891
+    second: ak404_00-sheet_8
+  - first:
+      213: 6259824643131958161
+    second: ak404_00-sheet_9
+  - first:
+      213: -7169827078854964811
+    second: ak404_00-sheet_10
+  - first:
+      213: -8004521970595536739
+    second: ak404_00-sheet_11
+  - first:
+      213: -6213267876466902237
+    second: ak404_00-sheet_12
+  - first:
+      213: -5822522748709418944
+    second: ak404_00-sheet_13
+  - first:
+      213: -2244381064994385762
+    second: ak404_00-sheet_0
+  - first:
+      213: -6755859729389647493
+    second: ak404_00-sheet_1
+  - first:
+      213: 3454534778232593496
+    second: ak404_00-sheet_2
+  - first:
+      213: -5819534027777529531
+    second: ak404_00-sheet_3
+  - first:
+      213: -8397817031135233127
+    second: ak404_00-sheet_4
+  - first:
+      213: -6361272351412307715
+    second: ak404_00-sheet_5
+  - first:
+      213: -6668599774708392287
+    second: ak404_00-sheet_6
+  - first:
+      213: -2680833768349431633
+    second: ak404_00-sheet_7
+  - first:
+      213: 1865047925263427691
+    second: ak404_00-sheet_8
+  - first:
+      213: -7545011585984957293
+    second: ak404_00-sheet_9
+  - first:
+      213: 8146359882014945282
+    second: ak404_00-sheet_10
+  - first:
+      213: 1515440494733987072
+    second: ak404_00-sheet_11
+  - first:
+      213: 8342456120449944621
+    second: ak404_00-sheet_12
+  - first:
+      213: 4495014261366274326
+    second: ak404_00-sheet_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ak404_00-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5928
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e909568005b5ad0e0800000000000000
+      internalID: -2244381064994385762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5472
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b790d55ce5d5e32a0800000000000000
+      internalID: -6755859729389647493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5016
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c59c0f319f0ff20800000000000000
+      internalID: 3454534778232593496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4560
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549a50c82acdc3fa0800000000000000
+      internalID: -5819534027777529531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4104
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b757a57e5f47b80800000000000000
+      internalID: -8397817031135233127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3648
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df83e86ff7838b7a0800000000000000
+      internalID: -6361272351412307715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3192
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae914f26df5473a0800000000000000
+      internalID: -6668599774708392287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2736
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa809af24e3cbcad0800000000000000
+      internalID: -2680833768349431633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68e762e43bf1e910800000000000000
+      internalID: 1865047925263427691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394f82f00fbba4790800000000000000
+      internalID: -7545011585984957293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2007ef3c62fad0170800000000000000
+      internalID: 8146359882014945282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d8cdec91de70510800000000000000
+      internalID: 1515440494733987072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2cc3bd24ab56c370800000000000000
+      internalID: 8342456120449944621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ak404_00-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 576
+        height: 456
+      alignment: 9
+      pivot: {x: 0.56, y: 0.041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6193d05b7af716e30800000000000000
+      internalID: 4495014261366274326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

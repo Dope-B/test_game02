@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: db1d5309b4242714b8cc4b35316b8f3c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6819323713375753157
+    second: ku321_00-sheet_0
+  - first:
+      213: -132469800961879795
+    second: ku321_00-sheet_1
+  - first:
+      213: -6334670497778829484
+    second: ku321_00-sheet_2
+  - first:
+      213: -1274469090614736876
+    second: ku321_00-sheet_3
+  - first:
+      213: -4675272376974358221
+    second: ku321_00-sheet_4
+  - first:
+      213: 5369265888146318389
+    second: ku321_00-sheet_5
+  - first:
+      213: -5652794650900852985
+    second: ku321_00-sheet_6
+  - first:
+      213: -1549492988488286725
+    second: ku321_00-sheet_7
+  - first:
+      213: 5879106258763701654
+    second: ku321_00-sheet_8
+  - first:
+      213: 6896190094486249407
+    second: ku321_00-sheet_9
+  - first:
+      213: -2291252593973485522
+    second: ku321_00-sheet_10
+  - first:
+      213: 6192064554818567116
+    second: ku321_00-sheet_11
+  - first:
+      213: 9108049076973280304
+    second: ku321_00-sheet_12
+  - first:
+      213: -8222916807994418187
+    second: ku321_00-sheet_0
+  - first:
+      213: -4027820000862061928
+    second: ku321_00-sheet_1
+  - first:
+      213: 7819335530089851780
+    second: ku321_00-sheet_2
+  - first:
+      213: -646294831158867991
+    second: ku321_00-sheet_3
+  - first:
+      213: -1590017553129935329
+    second: ku321_00-sheet_4
+  - first:
+      213: -3768737983469919107
+    second: ku321_00-sheet_5
+  - first:
+      213: -7310387015059541205
+    second: ku321_00-sheet_6
+  - first:
+      213: 1823714758109432782
+    second: ku321_00-sheet_7
+  - first:
+      213: -1690194998432129117
+    second: ku321_00-sheet_8
+  - first:
+      213: 6343425329279985177
+    second: ku321_00-sheet_9
+  - first:
+      213: 3124588298508686445
+    second: ku321_00-sheet_10
+  - first:
+      213: 6987170534794000689
+    second: ku321_00-sheet_11
+  - first:
+      213: 8392485663774749128
+    second: ku321_00-sheet_12
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ku321_00-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4224
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb57e1eab452ed80800000000000000
+      internalID: -8222916807994418187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ku321_00-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3872
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a376dac0f4a18c0800000000000000
+      internalID: -4027820000862061928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ku321_00-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ba89a6c3cd38c60800000000000000
+      internalID: 7819335530089851780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ku321_00-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3168
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7ca987646e707f0800000000000000
+      internalID: -646294831158867991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ku321_00-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eed0fa57f1fe9e0800000000000000
+      internalID: -1590017553129935329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ku321_00-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2464
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74e0cb85c0c2bbc0800000000000000
+      internalID: -3768737983469919107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ku321_00-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b237fbcedb94c8a90800000000000000
+      internalID: -7310387015059541205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ku321_00-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1760
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb00c8f8e22f4910800000000000000
+      internalID: 1823714758109432782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ku321_00-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af9f4d9a983b88e0800000000000000
+      internalID: -1690194998432129117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ku321_00-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916e2f26abf580850800000000000000
+      internalID: 6343425329279985177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ku321_00-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64d3f1b084cc5b20800000000000000
+      internalID: 3124588298508686445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ku321_00-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139f87fe49a67f060800000000000000
+      internalID: 6987170534794000689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ku321_00-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 511
+        height: 352
+      alignment: 9
+      pivot: {x: 0.50189, y: 0.0311}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c13ad3fe39187470800000000000000
+      internalID: 8392485663774749128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
