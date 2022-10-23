@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - effect
+  - player_attack_range
+  - mob_attack_range
+  - portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - mob
+  - charactor
+  - BG
+  - effect
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2399899011
+    locked: 0
+  - name: Ground
+    uniqueID: 2913116693
+    locked: 0
+  - name: mob
+    uniqueID: 4120496371
+    locked: 0
+  - name: player
+    uniqueID: 2300383279
+    locked: 0
+  - name: effect
+    uniqueID: 1970303279
+    locked: 0
+  - name: UI
+    uniqueID: 2485386381
+    locked: 0
