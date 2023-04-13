@@ -20,8 +20,8 @@
 - 플레이어와 몬스터의 애니메이터는 다음과 같다.
 
 <p>
-<img width="30%" src="https://user-images.githubusercontent.com/33209821/230091893-801b6d2d-af97-44f8-80a9-4154fae88b65.png"/>
-<img width="30%" src="https://user-images.githubusercontent.com/33209821/230091897-62dd47d3-64f8-42fa-9150-a8e79a11fee8.png"/>
+<img width="45%" src="https://user-images.githubusercontent.com/33209821/230091893-801b6d2d-af97-44f8-80a9-4154fae88b65.png"/>
+<img width="45%" src="https://user-images.githubusercontent.com/33209821/230091897-62dd47d3-64f8-42fa-9150-a8e79a11fee8.png"/>
 </p>
 
 - 연속공격을 실행하기 위해 연속된 모션을 가진 공격 애니메이션 실행 시<br/> 공격 키를 한번 더 누르면 트리거를 발생시켜서 바로 다음 공격 모션으로 이어지게 구현
